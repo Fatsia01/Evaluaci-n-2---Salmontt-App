@@ -14,6 +14,13 @@ Este proyecto corresponde a la segunda evaluación de la asignatura *Desarrollo 
 
 El proyecto fue desarrollado a partir de un caso contextualizado, abordando problemáticas reales y proponiendo una solución estructurada, modular y reutilizable. Se ha mejorado la primera entrega, utilizando más clases y lectura de archivos .txt.
 
+Se utilizaron los paquetes de java:
+-    **List**
+-    **Scanner**
+-    **InputMismatchException**
+-    **BufferedReader**
+-    **InputStream**
+-    **InputStreamReader**
 ---
 
 ## 🧱 Estructura general del proyecto
@@ -23,7 +30,6 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 ├── app/         # Clase principal con el método main
 ├── model/
 ├── data/       # Donde se gestiona la lectura de archivos txt
-
 📁 resources/   # Donde se guardan los archivos txt
 ````
 
