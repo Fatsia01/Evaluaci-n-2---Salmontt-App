@@ -1,3 +1,4 @@
+![Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)
 🧠 Evaluación Semana 3 – Desarrollo Orientado a Objetos I
 👤 Autor del proyecto
 Nombre completo: Benjamín Tapia Pardo
@@ -21,6 +22,12 @@ Abre el proyecto en IntelliJ IDEA.
 Verifica que los archivos .txt estén correctamente ubicados.
 
 Ejecuta el archivo Main.java desde el paquete app.
+
+Sigue las instrucciones en consola o en la interfaz gráfica (si corresponde).
+
+Repositorio GitHub: (https://github.com/Fatsia01/Evaluacion-1---Desarrollo-Orientado-a-Objetos.git) Fecha de entrega: [10/11/2025]
+
+© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación 1 Semana 3
 
 Sigue las instrucciones en consola o en la interfaz gráfica (si corresponde).
 
