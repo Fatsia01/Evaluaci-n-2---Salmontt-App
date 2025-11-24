@@ -1,0 +1,5 @@
+Montti;Comuna1;17000
+Imolog;Comuna2;20000
+Mafalda;Comuna3;14000
+Roma;Comuna4;12000
+Estadia;Comuna5;25000

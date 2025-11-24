@@ -1,0 +1,6 @@
+Mariposa;21021;Puerto Montt;Los Lagos;Chile
+Doctor Martin;1604;Puerto Montt;Los Lagos;Chile
+Madre Paulina;12612;Puerto Montt;Los Lagos;Chile
+Felipe Barria;1251;Puerto Montt;Los Lagos;Chile
+Chacabuco;12345;Puerto Montt;Los Lagos;Chile
+
